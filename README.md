@@ -1,16 +1,18 @@
-# quote
+# 🌟 Motivational Quotes App 📖  
 
-A new Flutter project.
+A simple **Flutter app** that fetches and displays **motivational quotes** from an online API.  
+Built with **FutureBuilder** for handling async data and a clean **Material UI** for an elegant experience.  
 
-## Getting Started
+🎯 **Goal:** Inspire users with motivational quotes while demonstrating **API integration** in Flutter.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Fetch **motivational quotes** from an online API  
+- ✅ Display quotes in a **beautiful card format**  
+- ✅ **FutureBuilder** for real-time quote loading  
+- ✅ **Drawer navigation** with a customizable theme 🎨  
+- ✅ **Smooth UI with Material Design**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
